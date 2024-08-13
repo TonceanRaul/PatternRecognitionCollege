@@ -1,3 +1,3 @@
 # PatternRecognitionCollege
 
-Chech master branch
+Check master branch
