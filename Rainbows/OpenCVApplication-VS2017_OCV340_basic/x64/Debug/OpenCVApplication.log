@@ -1,0 +1,214 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\applications\srf_repos\repos\rainbows\opencvapplication-vs2017_ocv340_basic\x64\debug\opencvapplication.exe' is denied.
+  stdafx.cpp
+  common.cpp
+  EightLaboratory.cpp
+  EleventhLaboratory.cpp
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(66,33): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(66,33): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(66,33): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(66,33): warning C4244:             _Tp=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(66,33): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(146,39): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(146,39): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(146,39): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(146,39): warning C4244:             _Tp=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(146,39): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(147,39): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(147,39): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(147,39): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(147,39): warning C4244:             _Tp=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(147,39): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(175,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FifthLaboratory.cpp
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(184,51): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(184,51): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(184,51): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(184,51): warning C4244:             _Tp=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\EleventhLaboratory.cpp(184,51): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FifthLaboratory.cpp(229,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  FirstLaboratory.cpp
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FifthLaboratory.cpp(243,73): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FifthLaboratory.cpp(243,73): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FifthLaboratory.cpp(243,73): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FifthLaboratory.cpp(243,73): warning C4244:             _Ty=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FifthLaboratory.cpp(243,73): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FifthLaboratory.cpp(243,73): warning C4244:         and
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FifthLaboratory.cpp(243,73): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FifthLaboratory.cpp(243,73): warning C4244:             _Tp=int
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FifthLaboratory.cpp(243,73): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(30,39): warning C4244: '=': conversion from '_Ty1' to 'int32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(30,39): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(30,39): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(30,39): warning C4244:             _Ty1=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(30,39): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(31,46): warning C4244: '=': conversion from '_Ty1' to 'int32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(31,46): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(31,46): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(31,46): warning C4244:             _Ty1=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(31,46): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(37,31): warning C4244: '=': conversion from 'const _Ty1' to 'int32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(37,31): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(37,31): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(37,31): warning C4244:             _Ty1=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(37,31): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(38,38): warning C4244: '=': conversion from '_Ty1' to 'int32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(38,38): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(38,38): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(38,38): warning C4244:             _Ty1=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(38,38): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(59,40): warning C4244: '=': conversion from '_Ty2' to 'vfc::int32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(59,40): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(59,40): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(59,40): warning C4244:             _Ty2=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(59,40): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(60,74): warning C4244: '=': conversion from '_Ty2' to 'vfc::int32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(60,74): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(60,74): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(60,74): warning C4244:             _Ty2=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(60,74): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(66,40): warning C4244: '=': conversion from '_Ty2' to 'vfc::int32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(66,40): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(66,40): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(66,40): warning C4244:             _Ty2=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(66,40): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(67,74): warning C4244: '=': conversion from '_Ty2' to 'vfc::int32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(67,74): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(67,74): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(67,74): warning C4244:             _Ty2=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(67,74): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(81,53): warning C4267: 'initializing': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(115,58): warning C4267: 'initializing': conversion from 'size_t' to 'vfc::int32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(126,29): warning C4244: '=': conversion from 'double' to 'vfc::float32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(130,41): warning C4244: '=': conversion from 'double' to 'vfc::float32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(195,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(196,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(212,33): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(212,33): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(212,33): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(212,33): warning C4244:             _Tp=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(212,33): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(212,33): warning C4244:         and
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(212,33): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(212,33): warning C4244:             _Tp=int
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(212,33): warning C4244:         ]
+  FourthLaboratory.cpp
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(213,40): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(213,40): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(213,40): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(213,40): warning C4244:             _Tp=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(213,40): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(213,40): warning C4244:         and
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(213,40): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(213,40): warning C4244:             _Tp=int
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FirstLaboratory.cpp(213,40): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FourthLaboratory.cpp(27,16): warning C4244: 'return': conversion from 'double' to 'vfc::float32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FourthLaboratory.cpp(35,12): warning C4244: 'return': conversion from 'vfc::int32_t' to 'vfc::float32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FourthLaboratory.cpp(78,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FourthLaboratory.cpp(91,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FourthLaboratory.cpp(184,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,16): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,16): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,16): warning C4244:             _Ty=float
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,16): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,16): warning C4244:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,16): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,16): warning C4244:             _Ty1=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,16): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FourthLaboratory.cpp(56): message : see reference to function template instantiation 'std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept' being compiled
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\FourthLaboratory.cpp(56): message : see reference to function template instantiation 'std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept' being compiled
+  NinthLaboratory.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,1): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,1): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,1): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,1): warning C4244:             _Ty=float
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,1): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,1): warning C4244:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,1): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,1): warning C4244:             _Ty2=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.23.28105\include\utility(165,1): warning C4244:         ]
+  OpenCVApplication.cpp
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\NinthLaboratory.cpp(170,61): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(113,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(204,42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(260,20): warning C4244: '=': conversion from 'vfc::float32_t' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(261,37): warning C4244: '=': conversion from 'vfc::float32_t' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(267,20): warning C4244: '=': conversion from 'vfc::float32_t' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(268,37): warning C4244: '=': conversion from 'vfc::float32_t' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(562,62): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(562,62): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(562,62): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(562,62): warning C4244:             _Tp=int
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(562,62): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(567,62): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(567,62): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(567,62): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(567,62): warning C4244:             _Tp=int
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(567,62): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(576,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  SecondLaboratory.cpp
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(232,10): warning C4101: 'fname': unreferenced local variable
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(34,29): warning C4305: 'initializing': truncation from 'double' to 'vfc::float32_t'
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(36,28): warning C4305: 'initializing': truncation from 'double' to 'vfc::float32_t'
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(38,30): warning C4244: 'initializing': conversion from 'int' to 'vfc::float32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(43,42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(44,81): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(44,81): warning C4267:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(44,81): warning C4267:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(44,81): warning C4267:             _Ty=vfc::int32_t
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(44,81): warning C4267:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(57,17): warning C4244: 'initializing': conversion from '_Ty2' to 'float', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(57,17): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(57,17): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(57,17): warning C4244:             _Ty2=int
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(57,17): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(58,17): warning C4244: 'initializing': conversion from '_Ty1' to 'float', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(58,17): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(58,17): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(58,17): warning C4244:             _Ty1=int
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(58,17): warning C4244:         ]
+  SeventhLaboratory.cpp
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(59,17): warning C4244: 'initializing': conversion from '_Ty2' to 'float', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(59,17): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(59,17): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(59,17): warning C4244:             _Ty2=int
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SecondLaboratory.cpp(59,17): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SeventhLaboratory.cpp(162,12): warning C4101: 'maxColor': unreferenced local variable
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SeventhLaboratory.cpp(162,22): warning C4101: 'minColor': unreferenced local variable
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SeventhLaboratory.cpp(225,31): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SeventhLaboratory.cpp(225,31): warning C4244:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SeventhLaboratory.cpp(225,31): warning C4244:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SeventhLaboratory.cpp(225,31): warning C4244:             _Tp=uchar
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SeventhLaboratory.cpp(225,31): warning C4244:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SeventhLaboratory.cpp(193,12): warning C4101: 'maxColor': unreferenced local variable
+  SimulationProject.cpp
+  SixthLaboratory.cpp
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SeventhLaboratory.cpp(193,22): warning C4101: 'minColor': unreferenced local variable
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SixthLaboratory.cpp(123,40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SixthLaboratory.cpp(172,11): warning C4101: 'color': unreferenced local variable
+  TenthLaboratory.cpp
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\SixthLaboratory.cpp(291,40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(107,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(109,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(110,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(153,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(155,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(156,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(160,32): warning C4305: '=': truncation from 'double' to '_Tp'
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(160,32): warning C4305:         with
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(160,32): warning C4305:         [
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(160,32): warning C4305:             _Tp=float
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(160,32): warning C4305:         ]
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(215,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(216,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(223,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(224,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(230,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ThirdLaboratory.cpp
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TenthLaboratory.cpp(231,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\ThirdLaboratory.cpp(69,31): warning C4244: 'initializing': conversion from 'double' to 'vfc::float32_t', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\ThirdLaboratory.cpp(72,20): warning C4244: 'argument': conversion from 'vfc::float32_t' to 'int', possible loss of data
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\ThirdLaboratory.cpp(79,32): warning C4244: 'initializing': conversion from 'double' to 'vfc::float32_t', possible loss of data
+  Generating Code...
+C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\ThirdLaboratory.cpp(84,38): warning C4244: 'argument': conversion from 'vfc::float32_t' to 'int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'C:\Applications\SRF_Repos\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\x64\Debug\OpenCVApplication.exe'

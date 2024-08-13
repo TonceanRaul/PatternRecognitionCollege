@@ -1,0 +1,4 @@
+﻿  svm-toy.cpp
+e:\repos\rainbows\opencvapplication-vs2017_ocv340_basic\testsvm\testsvm\svm-toy.cpp(390): warning C4838: conversion from 'int' to 'signed char' requires a narrowing conversion
+e:\repos\rainbows\opencvapplication-vs2017_ocv340_basic\testsvm\testsvm\svm-toy.cpp(453): warning C4838: conversion from 'int' to 'signed char' requires a narrowing conversion
+  TestSVM.vcxproj -> E:\Repos\Rainbows\OpenCVApplication-VS2017_OCV340_basic\TestSVM\TestSVM\Debug\TestSVM.exe

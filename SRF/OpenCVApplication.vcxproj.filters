@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="common.cpp" />
+    <ClCompile Include="OpenCVApplication.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="FirstLaboratory.cpp">
+      <Filter>1st</Filter>
+    </ClCompile>
+    <ClCompile Include="SecondLaboratory.cpp">
+      <Filter>2nd</Filter>
+    </ClCompile>
+    <ClCompile Include="ThirdLaboratory.cpp">
+      <Filter>3rd</Filter>
+    </ClCompile>
+    <ClCompile Include="FourthLaboratory.cpp">
+      <Filter>4th</Filter>
+    </ClCompile>
+    <ClCompile Include="FifthLaboratory.cpp">
+      <Filter>5th</Filter>
+    </ClCompile>
+    <ClCompile Include="SeventhLaboratory.cpp">
+      <Filter>7th</Filter>
+    </ClCompile>
+    <ClCompile Include="EightLaboratory.cpp">
+      <Filter>8th</Filter>
+    </ClCompile>
+    <ClCompile Include="SixthLaboratory.cpp">
+      <Filter>6th</Filter>
+    </ClCompile>
+    <ClCompile Include="NinthLaboratory.cpp">
+      <Filter>9th</Filter>
+    </ClCompile>
+    <ClCompile Include="TenthLaboratory.cpp">
+      <Filter>10th</Filter>
+    </ClCompile>
+    <ClCompile Include="EleventhLaboratory.cpp">
+      <Filter>11th</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="FirstLaboratory.h">
+      <Filter>1st</Filter>
+    </ClInclude>
+    <ClInclude Include="SecondLaboratory.h">
+      <Filter>2nd</Filter>
+    </ClInclude>
+    <ClInclude Include="ThirdLaboratory.h">
+      <Filter>3rd</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenCVApplication.h" />
+    <ClInclude Include="FourthLaboratory.h">
+      <Filter>4th</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="FifthLaboratory.h">
+      <Filter>5th</Filter>
+    </ClInclude>
+    <ClInclude Include="SeventhLaboratory.h">
+      <Filter>7th</Filter>
+    </ClInclude>
+    <ClInclude Include="EightLaboratory.h">
+      <Filter>8th</Filter>
+    </ClInclude>
+    <ClInclude Include="SixthLaboratory.h">
+      <Filter>6th</Filter>
+    </ClInclude>
+    <ClInclude Include="NinthLaboratory.h">
+      <Filter>9th</Filter>
+    </ClInclude>
+    <ClInclude Include="TenthLaboratory.h">
+      <Filter>10th</Filter>
+    </ClInclude>
+    <ClInclude Include="EleventhLaboratory.h">
+      <Filter>11th</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="8th">
+      <UniqueIdentifier>{36370ad0-32b7-4595-9d21-717f1ccd4197}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1st">
+      <UniqueIdentifier>{7aaf0a91-cae1-4cbf-bedd-c394e5b75417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4th">
+      <UniqueIdentifier>{ade7a10d-6537-4c9d-ba53-266e74de1776}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3rd">
+      <UniqueIdentifier>{2997efb9-4a6b-4145-afd6-e8455cc9918b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5th">
+      <UniqueIdentifier>{6e9484b8-e8b0-497f-ad9c-9c752dd3fb2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="6th">
+      <UniqueIdentifier>{28d786e7-17f4-4105-9cbd-637b9923afa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="7th">
+      <UniqueIdentifier>{98bbc73a-06dd-4bb3-ac0e-000ed4bcf8ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2nd">
+      <UniqueIdentifier>{17423646-0140-4f09-85aa-ee3303d8b0f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="9th">
+      <UniqueIdentifier>{8709b45b-c7b4-466d-9e3f-d907914f7c84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10th">
+      <UniqueIdentifier>{123a09c5-e172-44ae-8f39-e0b49fbfae3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11th">
+      <UniqueIdentifier>{35468ae3-f6a3-4989-b081-698176f17f0e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OpenCVApplication.rc" />
+  </ItemGroup>
+</Project>
